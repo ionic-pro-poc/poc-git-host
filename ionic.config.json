@@ -1,0 +1,8 @@
+{
+  "name": "poc-git-host",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "cb6a53ea"
+}
