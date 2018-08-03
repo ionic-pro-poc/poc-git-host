@@ -13,7 +13,7 @@ import { Pro } from '@ionic/pro';
 import { Injectable, Injector } from '@angular/core';
 //import { IonicErrorHandler } from 'ionic-angular';
 
-Pro.init('CB6A53EA', {
+Pro.init('cb6a53ea', {
   appVersion: '0.0.1'
 })
 
